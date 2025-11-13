@@ -12,6 +12,7 @@ function App() {
       <header>
         <h1>Candy Listing For {name}</h1>
         <p>This is a test to see if I can commit a change to GitHub</p>
+        <p>This is the test where I actually know stuff!!</p>
       </header>
       <Navbar />
       <CandyList />
