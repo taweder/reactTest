@@ -11,11 +11,7 @@ function App() {
     <>
       <header>
         <h1>Candy Listing For {name}</h1>
-        <p>
-          Lorem W ipsum dolor sit amet consectetur adipisicing elit. Officiis
-          illo cumque sit dignissimos, consectetur nemo possimus accusamus
-          maxime excepturi molestiae nesciunt, laborum corrupti quis asperiores!
-        </p>
+        <p>This is a test to see if I can commit a change to GitHub</p>
       </header>
       <Navbar />
       <CandyList />
